@@ -1,0 +1,12 @@
+{
+  "name": "Character Counter",
+  "id": "1461609219912518450",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["https://api.openai.com"]
+  },
+  "documentAccess": "dynamic-page"
+}
